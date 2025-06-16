@@ -53,6 +53,3 @@ For full analysis, use the default `NUM_TRIALS = 1500` (computationally intensiv
 
 ## Data
 The full parameter space results were generated using high-performance computing with 1500 trials per parameter combination. The archive file preserves these complete results for reproducibility.
-
-## Context
-This work contributes to understanding the Neural Autopilot model's parameter space and ground truth recovery capabilities, as presented in slides 34-40 of the associated presentation on power laws in human behavior.
