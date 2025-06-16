@@ -15,6 +15,7 @@ Hu, S., Kalburge, I., Ho, H., Kukavica, A., & Camerer, C. (2025). *Power laws in
 - **`parameter_space_results.csv`** - Full parameter space simulation results
 - **`archive_parameter_space_results.csv`** - Backup of complete results from HPC runs
 - **`VariationOf_0320_2025.csv`** - Supporting data file
+- **`slides_excerpt.pdf`** - Presentation slides (34-40) covering my parameter analysis contributions
 
 ## Analysis Overview
 
